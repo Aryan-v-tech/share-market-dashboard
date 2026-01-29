@@ -1,2 +1,2 @@
 # share-market-dashboard
-![Dashboard Screenshot](share market analysis.jpeg)
+![Dashboard Screenshot](share_market_analysis.jpeg)
